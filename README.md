@@ -14,3 +14,12 @@ It Uses Github API to fetch user details and Integrated with Dark mode .
 * Enhanced Online Visibility: Strengthen your online presence by highlighting GitHub repositories and linking to associated social media profiles, fostering connections within the developer community.
 
 * Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
+
+# How to use
+1. Open the DevDetective web application in your preferred web browser.
+
+2. Enter the username of the GitHub profile you want to search for in the provided input field.
+
+3. Press the search button or hit Enter to initiate the search.
+
+4. Upon successful retrieval of the user's data, the application will display the profile details.
