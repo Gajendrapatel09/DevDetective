@@ -23,3 +23,14 @@ It Uses Github API to fetch user details and Integrated with Dark mode .
 3. Press the search button or hit Enter to initiate the search.
 
 4. Upon successful retrieval of the user's data, the application will display the profile details.
+
+# Screenshots
+![Screenshot 2024-09-08 130456](https://github.com/user-attachments/assets/a5d0cbb0-1f48-4e01-bcaa-ab99b8f37396)
+![Screenshot 2024-09-08 130540](https://github.com/user-attachments/assets/5005beeb-a7d3-45de-bf55-50692e5556b3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3035ad6e-4010-472c-bc01-66813d234227" />
+</p>
+
+
+
+
