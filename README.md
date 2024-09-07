@@ -13,3 +13,4 @@ It Uses Github API to fetch user details and Integrated with Dark mode .
 
 * Enhanced Online Visibility: Strengthen your online presence by highlighting GitHub repositories and linking to associated social media profiles, fostering connections within the developer community.
 
+* Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
